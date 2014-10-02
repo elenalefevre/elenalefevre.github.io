@@ -1,9 +1,21 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background: url(background2.jpg);
+  background-image: url('guenther.jpg');
+  background-size: 1650px 1100px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #FFFFFF;    
+  opacity: 0.9;  
 }
 #wrapper {
+  width: 800px;
+  margin: 200px 200px;
+}
+#content {
   width: 960px;
-  margin: 20px auto;
+  margin: 20px 20px;
+  background-color: #FFFFFF; 
+  opacity: 0.6; 
 }

@@ -70,7 +70,7 @@ div#footer {
 	text-align: center;
 }
 
-/* Make it so you can see the footer and center it */
+/* Add a header to disclaim that website is under construction */
 div#disclaimer {
 	color: red;
 	margin: 20px auto;

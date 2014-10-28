@@ -1,0 +1,7 @@
+/* Add a background image */
+body {
+	background-image: url(effekte.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}

@@ -1,7 +1,0 @@
-/* Add a background image */
-body {
-	background-image: url(guenther_2.jpg);
-	background-size: cover;
-	background-position: center center;
-	background-attachment: fixed;
-}
